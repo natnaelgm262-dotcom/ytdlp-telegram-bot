@@ -5,7 +5,7 @@ My personal use-case is combining this with Jellyfin.
 
 ## Usage
 ```bash
-git clone https://github.com/CommanderRedYT/ytdlp-telegram-bot
+git clone https://github.com/natnaelgm262-dotcom/ytdlp-telegram-bot
 cd ytdlp-telegram-bot
 yarn install
 
